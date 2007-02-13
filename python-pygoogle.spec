@@ -2,7 +2,7 @@
 %define		module	pygoogle
 
 Summary:	Python interface to Google API
-Summary(pl.UTF-8):   Interfejs Pythona do Google API
+Summary(pl.UTF-8):	Interfejs Pythona do Google API
 Name:		python-%{module}
 Version:	0.6
 Release:	0.3
