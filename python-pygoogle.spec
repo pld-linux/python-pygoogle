@@ -5,7 +5,7 @@ Summary:	Python interface to Google API
 Summary(pl.UTF-8):	Interfejs Pythona do Google API
 Name:		python-%{module}
 Version:	0.6
-Release:	0.3
+Release:	1
 License:	PSF
 Group:		Libraries/Python
 Source0:	http://dl.sourceforge.net/pygoogle/%{module}-%{version}.tar.gz
