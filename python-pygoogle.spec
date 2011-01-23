@@ -12,6 +12,8 @@ Source0:	http://dl.sourceforge.net/pygoogle/%{module}-%{version}.tar.gz
 # Source0-md5:	334e2d9e5a765ffa9769e2c4cdfcd110
 URL:		http://pygoogle.sourceforge.net/
 BuildRequires:	python-devel >= 2.2.1
+BuildRequires:	python-modules
+BuildRequires:	rpm-pythonprov
 %pyrequires_eq	python-modules
 Requires:	python-SOAP >= 0.11.3
 BuildArch:	noarch
